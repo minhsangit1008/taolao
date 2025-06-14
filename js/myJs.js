@@ -1,13 +1,13 @@
 const textConfig = {
   text1: "Hế luu Bé Hânnnnnn!",
   text2: "heheheheheehhehehehehheheheheheheheheh",
-  text3: "Bé Hân có bị khùng hong ._.",
+  text3: "Bé Hân của tui dễ thương quá chài ._.",
   text4: "chọn đê :v",
   text5: "không :))",
   text6: "có nha :))",
-  text7: "tui có đẹp chai hong. :vvvv",
+  text7: "bé Hân của tui nhinh nhẹp nhắm á :vvvv",
   text8: "gửi câu chả lời <3",
-  text9: "đẹp try vlllll",
+  text9: "đúng zậy",
   text10: "Hì hì cám ơn Bé Hân đã trả lời câu hỏi của tui <3",
   text11:
     "hết gòi",
